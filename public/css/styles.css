@@ -1,0 +1,48 @@
+/* the logo is special and uses û {option i ... u} */
+.logo {
+font-family: 'Quicksand', sans-serif;
+}
+.heading {
+font-family: 'Lora', serif;
+}
+.body-text {
+font-family: 'Lato', sans-serif;
+}
+body {
+    color: #024064;
+    font-family: 'Lato', sans-serif;
+}
+p {
+    text-align: justify;
+}
+.section-a {
+    background-color: #024064;
+    color: #3cb3c0;
+}
+.section-b {
+    background-color: #3cb3c0;
+    color: #024064;
+}
+.bg-d {
+    color: #3cb3c0;
+    background-color: #024064;
+}
+.bg-l {
+    color: #024064;
+    background-color: #3cb3c0;
+}
+/* colour scheme:
+Name: Japanese Laurel
+Hex: #37782C
+Name: Mantis
+Hex: #64BB6A
+Name: Pistachio
+Hex: #9FD983
+Name: Cream
+Hex: #FEFED3
+Name: Moonstone
+Hex: #3CB3C0
+Name: Ateneo-Blue
+Hex: #024064
+
+ */
